@@ -2,7 +2,7 @@
 
 **Disclaimer: This is a reupload because the original creator deleted their repo**
 
-Convert ![Stepmania](https://www.stepmania.com)/![Etterna](https://etternaonline.com) Receptors to osu!mania keys.
+Convert [Stepmania](https://www.stepmania.com)/[Etterna](https://etternaonline.com) Receptors to osu!mania keys.
 
 Make sure that there aren't multiple receptors in one image or you'll have two or more for one note.
 
